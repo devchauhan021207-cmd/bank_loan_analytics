@@ -1,7 +1,7 @@
 # 🏦 Bank Loan Analytics Dashboard
 ## Dashboard Preview
 
-![Dashboard](Bank Loan Analytics Dashboard.png)
+![Dashboard] (Bank Loan Analytics Dashboard.png)
 
 
 
