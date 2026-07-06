@@ -1,9 +1,4 @@
 # 🏦 Bank Loan Analytics Dashboard
-## Dashboard Preview
-
-![Dashboard] (Bank Loan Analytics.png)
-
-
 
 ## 📌 Project Overview
 
